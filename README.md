@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <p float="center">
-  <img align="left" alt="AlxBouras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&hide_border=true&theme=tokyonight" />
-</p> -->
 
-![AlxBouras's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&theme=synthwave)
+
+![AlxBouras's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&theme=onedark)
 
