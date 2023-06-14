@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![AlxBouras's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&theme=dark)
+![AlxBouras's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&theme=merko)
 
