@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p float="center">
-  <img align="left" alt="AlxBouras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&hide_border=true&theme=dark" />
-</p>
+<!-- <p float="center">
+  <img align="left" alt="AlxBouras's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&hide_border=true&theme=tokyonight" />
+</p> -->
+
+![AlxBouras's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlxBouras&show_icons=true&theme=tokyonight)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlxBouras)](https://github.com/anuraghazra/github-readme-stats) -->
 
